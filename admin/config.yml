@@ -2,7 +2,7 @@ backend:
   name: github
   repo: Hol1999/Hollyrecipewebsite # Path to your GitHub repository
   branch: master # Branch to update (master by default)
-  site_domain: yoursite.netlify.app #Your site on netlify
+  site_domain: melonmochi.netlify.app #Your site on netlify
   use_graphql: true
 
 publish_mode: editorial_workflow
