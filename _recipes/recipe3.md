@@ -1,8 +1,9 @@
 ---
-layout: recipe #this will be a basic page with styles coming from content.css
-title: Recipe 3
-date: 2019-10-19
-published: true
+title: Challah bread french toast with ricotta, blueberries and pomegranate
 order: 3
-tags:
+date: 2019-10-19
+layout: recipe
+published: true
+tags: null
 ---
+ccc
