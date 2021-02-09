@@ -6,7 +6,7 @@ header_feature_image: ../uploads/pages.jpg
 header_text: tornbetween
 header_text_color: "#ffffff"
 bannerheight: 20vmax
-logo: /uploads/logo.jpg
+logo: ../uploads/screenshot-2021-02-09-at-15.24.51.png
 favicon: /uploads/favicon.ico
 gridlayout: false
 fixednavbar: false
