@@ -2,12 +2,12 @@ title: tornbetween
 description: "Healthy ~ Fresh  ~ Vegetarian ~ Vegan ~ Italian-inspired ~
   Breakfast ~ Lunch ~ Dinner "
 footer_text: Copyright 2021 Holly Doogood
-header_feature_image: ../uploads/screenshot-2021-02-09-at-15.27.57.png
+header_feature_image: ../uploads/tablecloth.jpg
 header_text: tornbetween
 header_text_color: "#ffffff"
 bannerheight: 20vmax
 logo: ../uploads/screenshot-2021-02-09-at-15.24.51.png
-favicon: /uploads/favicon.ico
+favicon: ../uploads/screenshot-2021-02-09-at-15.24.51.png
 gridlayout: false
 fixednavbar: false
 upzoom: true
