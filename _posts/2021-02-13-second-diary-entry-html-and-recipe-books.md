@@ -17,7 +17,7 @@ tags:
 
 ~ Are recipe books popular? Short answer, yes! A longer answer, however, is that recipe books are often on the bestselling charts like The Bookseller's *The Official UK Top 50* Charts. The most successful cases recently being *Pinch of Nom,* which had insane worldwide sales figures and any Ottolenghi cookery book like his recent title, *Simple*. Other recipes books that have great success rates are well-loved figures like Jamie Oliver, Mary Berry, Gordan Ramsey etc. Another trend I have noticed is ex-*Great British Bake Off* figures like Nadia Hussain, Kim Joy, Liam Charles etc. So the USP of *celebrity* is very successful as a selling point of this type of genre of books.
 
-![](../uploads/screenshot-2021-02-16-at-11.11.47.png)
+![Array of The Great British Bake-Off book covers](../uploads/screenshot-2021-02-16-at-11.11.47.png "The Great British Bake-Off book covers")
 
 ~ Where do people find their recipes? Anywhere from Grandma's hand-written recipe book to TikTok. Recipe content is on any type of media platform, to web browsers and physical hardback books. For my eBook, a couple of my recipes have been sourced from TikTok and others from hardback cookery books that I own.
 
