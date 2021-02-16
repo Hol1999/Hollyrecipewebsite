@@ -30,8 +30,14 @@ Toast the ciabatta in a pan, with some olive oil. Turn on both sides and make su
 
 In a bowl, add the tomato, and a drizzle of olive oil and balsamic vinegar with some salt and pepper. Add some finely chopped garlic and stir.
 
-Top the tomato mixture on the ciabatta with some fresh basil... and there we go. Done!
+Top the tomato mixture on the ciabatta with some fresh basil or instead eat with a side of rocket, anchovies and a poached egg. 
 
-### Inspiration came from: <https://www.tiktok.com/@eitan/video/6845019460416376070?lang=en>
+There we go, that's it. Done!
 
-![Two slices of bruschetta : fresh tomato mix on toasted ciabatta]( "Bruschetta")
+### Inspiration came from:
+
+### <https://www.tiktok.com/@eitan/video/6845019460416376070?lang=en>
+
+The inspiration for this recipe came from the tiktoker mentioned in the URL above, as well as, an Italian restaurant we went to.
+
+![Two slices of bruschetta : fresh tomato mix on toasted ciabatta](../uploads/brushetta.jpg "Bruschetta")
