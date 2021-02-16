@@ -23,8 +23,8 @@ Hi ~ I'm the editor of *tornbetween,* and this weeks theme is inspiration. I wil
 
 ~ How eBook covers differ from physical printed copies: The margin of sight of say a Kindle of one eBook is a lot smaller than a physical normal-sized cookbook and so what I create has to be legible in some shape or form on such a small scale. 
 
-## 'What I have done so far' segment 
+## 'What I have done so far' segment
 
-* Today, I cooked my first recipe '*Feta, Tomato and Basil Spirali*', took a bunch of pictures and will upload the recipe soon. It was delicious, it is definetely worth recreating if you have some time. Here's a photo x
+* Today, I cooked my first recipe '*Feta, Tomato and Basil Spirali*', took a bunch of pictures and will upload the recipe soon. It was delicious, it is definitely worth recreating if you have some time. Here's a photo x
 
   ![](../uploads/img_3825.jpg)
