@@ -5,7 +5,7 @@ date: 2021-02-06T15:22:43.086Z
 header_feature_image: ../uploads/close-up-spirali.jpg
 title_color: "#ffffff"
 caption: tornbetween 6/2/21
-comments: false
+comments: true
 tags:
   - ""
 ---
