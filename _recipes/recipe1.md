@@ -6,6 +6,8 @@ layout: recipe
 published: true
 tags: null
 ---
+Rigatoni is a particular favourite shape in the Southern regions of Italy as they prefer the rigid edges as opposed to the smooth sides of penne because sauces and cheese stick to the rigatoni better. It is also pronounced 'rig-uh-toe-nee' for those wondering.
+
 ### Difficulty:\*   Time: \**
 
 ## Ingredients
