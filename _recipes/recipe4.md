@@ -6,13 +6,15 @@ layout: recipe
 published: true
 tags: null
 ---
+An interesting fact about Lemon Posset is that it was considered in the past to be a remedy for the common cold and insomnia. Despite the posset originating in England in the sixteenth century, with the addition of Italian Sicilian lemons and a side of limoncello, this recipe has the influence of Italy. 
+
 ### Difficulty: \*  Time: \**
 
 ## Ingredients
 
 * 600ml double heavy cream
 * 175g caster sugar
-* grated rind and juice of 2 unwaxed lemons
+* grated rind and juice of 2 unwaxed Sicilian lemons
 
 ## Method
 
