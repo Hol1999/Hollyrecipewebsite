@@ -32,6 +32,8 @@ In a bowl, add the tomato, and a drizzle of olive oil and balsamic vinegar with 
 
 Top the tomato mixture on the ciabatta with some fresh basil... and there we go. Done!
 
-### Inspiration came from: <https://www.tiktok.com/@eitan/video/6845019460416376070?lang=en>
+### Inspiration came from: 
+
+### <https://www.tiktok.com/@eitan/video/6845019460416376070?lang=en>
 
 ![Two slices of bruschetta : fresh tomato mix on toasted ciabatta]( "Bruschetta")
