@@ -6,6 +6,8 @@ layout: recipe
 published: true
 tags: null
 ---
+Italian cuisine has been thought to have been inspired by a wide variety of different cultures, including Ancient Greek, Ancient Rome, Arabic cultures as well as Mediterranean and European countries. This italian-sourced recipe has a largely French influence with the tart being thought to have derived from France.
+
 ### Difficulty: \*\* Time: \*\**
 
 ## Ingredients
