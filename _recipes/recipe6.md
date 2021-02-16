@@ -9,6 +9,8 @@ tags:
   - Meat
   - Hot
 ---
+Bruschetta is a type of antipasto consisting of toasted bread typically topped with fresh tomatoes, cured meats or cheese. The dish is said to date back to Ancient Rome where olive growers would bring their harvested olives to taste on some freshly baked bread.
+
 ### Difficulty: \* Time: \*
 
 ## Ingredients
