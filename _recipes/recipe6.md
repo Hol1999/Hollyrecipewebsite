@@ -9,7 +9,7 @@ tags:
   - Meat
   - Hot
 ---
-\### Difficulty:  *Time:* 
+### Difficulty: \* Time: \*
 
 ## Ingredients
 
