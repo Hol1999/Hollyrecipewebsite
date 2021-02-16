@@ -32,14 +32,10 @@ Transfer the cooked pepper and onions to the pastry, making sure to keep within 
 
 Drizzle over the remaining oil. Bake for 15 minutes, until the pastry is puffed up and the cheese has melted.
 
-
-
-### Inspiration came from: 
+### Inspiration came from:
 
 A Sainsbury's leaflet, my mother and I picked up years ago. 
 
 <https://recipes.sainsburys.co.uk/recipes/main-courses/roasted-red-pepper-tart>
-
-
 
 ![Red pepper and goats cheese tart on a woodern board](../uploads/redpeppertart.jpg "Roasted red pepper and goats cheese tart")
