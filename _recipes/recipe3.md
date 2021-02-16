@@ -1,5 +1,5 @@
 ---
-title: Authentic Carbonara
+title: Lasagna
 order: 3
 date: 2019-10-19
 layout: recipe
@@ -10,32 +10,45 @@ tags: null
 
 ## Ingredients
 
-* Pepper
-* Salt
-* Spaghetti
-* 1 whole egg, 2 egg yolks
-* Pancetta
-* Pecorino-Romano
-* Parmigiano-Reggiano
+##### For the meat sauce
+
+*
+*
+*
+*
+*
+
+##### For the Bechamel sauce
+
+* 40g butter
+* 40g flour
+* 600ml milk
+* pinch of ground nutmeg
+* black pepper
+
+##### Other ingredients
+
+* 250g dried lasagna sheets
+* Freshly made lasagna
+* 50g Parmesan cheese
+* 15g butter
 
 ## Method
 
-Boil and salt some water.
+Make the meat sauce by...
 
-Add your serving of spaghetti, cook until al-dente.
+Make the bechamel sauce by melting the butter in a pan, stirring in the flour. Cook over a gentle heat for 2-3 mins, then gradually beating in the milk until the sauce is thick.  Season with nutmeg, salt, pepper and cook for 5-10 mins.
 
-Grate in equal parts Pecorino-Romano and Parmigiano-Reggiano into your broken eggs, whisk until creamy and yellow.
+To layer, place a bit of the meat sauce in the baking dish, cover with a sheet of lasagna, add another layer of meat sauce and then add some bechamel sauce, continue layering in this fashion until you run out of ingredients. Finish with a layer of bechamel. 
 
-Put in pancetta into a pan, then turn the heat on medium, one pancetta is cooked (slightly golden), turn of the heat and add the pasta to the pan.
+Sprinkle with some grated parmesan and dollop some butter here and there on top of the last bechamel sauce layer. Place in the oven (preheated) at 230oc (210 Fan) for 30 mins.
 
-Make sure oil covers the spaghetti, rest for three minutes. Pour in the egg and cheese mixture.
+Voila!
 
-Stir, and add a ladle's worth of the pasta water.
 
-Done, enjoy.
 
 ### Inspiration came from:
 
-https://www.tiktok.com/@passsthesalt/video/6885526584686628101?lang=en&is_copy_url=1&is_from_webapp=v1
+Complete Italian StMichael FROM MARKS & SPENCER cookbook
 
-![A bowl full of carbonara]( "Authentic carbonara")
+![Two dishes of cooked Lasagna on a table ](../uploads/lasagna.jpg "Lasagna for the family")
