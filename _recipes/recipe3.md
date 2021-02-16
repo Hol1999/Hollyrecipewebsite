@@ -6,7 +6,7 @@ layout: recipe
 published: true
 tags: null
 ---
-### Difficulty:  **Time:**
+### Difficulty: \*\* **Time: \*\***
 
 ## Ingredients
 
