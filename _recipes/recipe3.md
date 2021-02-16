@@ -12,11 +12,21 @@ tags: null
 
 ##### For the meat sauce
 
-*
-*
-*
-*
-*
+* 4 tbsp olive oil
+* 1 onion, chopped
+* 1 garlic clove 
+* 4 rashers of streaky bacon (derinded and chopped)
+* 1 diced carrot
+* 1 celery stick
+* 500g lean minced beef
+* 150ml red wine
+* 125ml milk
+* Grated nutmeg
+* 425g chopped tomatoes
+* 1 tbsp sugar
+* t tsp oregano
+* Salt
+* Pepper
 
 ##### For the Bechamel sauce
 
@@ -35,7 +45,7 @@ tags: null
 
 ## Method
 
-Make the meat sauce by...
+Make the meat sauce by heating oil in a saucepan, saute the onion, garlic, bacon, carrot, celery until golden. Add the beef and cook until brown, stirring occasionally. Add the red wine and bring to the boil. Reduce the temperature of the hob slightly to medium until the wine has evaporated, then season with salt and pepper. Add the milk and nutmeg, stir until the milk is absorbed. Add the tomatoes, sugar and oregano. Reduce the heat again and let it simmer for 2-3 hours until the sauce is reduced. 
 
 Make the bechamel sauce by melting the butter in a pan, stirring in the flour. Cook over a gentle heat for 2-3 mins, then gradually beating in the milk until the sauce is thick.  Season with nutmeg, salt, pepper and cook for 5-10 mins.
 
