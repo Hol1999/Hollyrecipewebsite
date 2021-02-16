@@ -1,29 +1,39 @@
 ---
-title: Rigatoni with seasonal vegetables
+title: Rigatoni with Seasonal Vegetables
 order: 1
 date: 2019-10-19
 layout: recipe
 published: true
 tags: null
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-![Placeholder](../uploads/placeholder1.jpg "Vegetable Rigatoni")
+### Difficulty:\*   Time: \**
 
 ## Ingredients
 
-* Rigatoni 
-* One orange pepper 
+* Rigatoni
+* Orange Pepper
 * Parmigiano
-* One courgette 
-* 10 medium sized tomatoes
-* Garlic
-
-
+* ½ Garlic
+* 2 Courgettes
+* A packet of whole tomatoes (or 10 medium-sized)
+* Salt
+* Pepper
+* Double concentrated tomato puree
 
 ## Method
 
-Rough chop the garlic, add a splash of olive oil to a pan, add the garlic. Quarter whole tomatoes, chop the courgette, salt the water, add the tomatoes, simmer for about 15 mins, add a little tomato paste (double concentrated) be careful with the amount \~ it's strong stuff, mix that in. Throw in the pasta \~ finata!
+Prep the vegetables; quarter the tomatoes, 1/4 the courgettes and then chop them into 2cm pieces, chop the garlic finely and cut the orange pepper in fine pieces.
 
-* Serves: 4
-* Preparation time: 30 mins
+Add olive oil to a hot pan, then add the garlic.
+
+Add the courgette and simmer for 4 minutes, add the tomatoes, and the pepper. Simmer again for 15 mins.
+
+During the 15 mins, boil and salt the pasta water and cook the pasta for the allotted time.
+
+Add some of the tomato paste, mix!
+
+Combine the pasta and the now simmered done vegetables. Add some parmigiano and enjoy :)
+
+### Inspiration came from: <https://www.tiktok.com/@imp_of_the_perverse/video/6918561341234105606?lang=en&is_copy_url=1&is_from_webapp=v1>
+
+![Bowl of the editors' rigatoni with a sprinkling of parmigiano](../uploads/rigatoni.jpg "Vegetable Rigatoni")
