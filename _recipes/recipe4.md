@@ -1,5 +1,5 @@
 ---
-title: Spinach goats cheese omelette
+title: Recipe 4
 order: 4
 date: 2019-10-19
 layout: recipe
