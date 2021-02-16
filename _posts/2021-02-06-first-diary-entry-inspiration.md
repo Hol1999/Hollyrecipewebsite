@@ -9,7 +9,7 @@ comments: false
 tags:
   - ""
 ---
-Hi ~ I'm the editor of *tornbetween,* and this weeks theme is inspiration. I will be talking about: Why I chose an Italian inspired blog; Where my recipes are taken from; What books will inspire my internal pages and cover design of my eBook (which will be coming out soon); Some of my favourite book covers and why I like them and what makes a good book cover; And lastly, how eBook covers differ from physical printed copies.
+Hi ~ I'm the editor of *tornbetween,* and this weeks theme is 'inspiration'. I will be talking about: Why I chose an Italian inspired blog? Where my recipes are taken from? What books will inspire my internal pages and cover design of my eBook (which will be coming out soon)? Some of my favourite book covers and why I like them and what makes a good book cover? And lastly, how eBook covers differ from physical printed copies?
 
 ~ Why I chose an Italian inspired blog: As I was searching 2021 trends following the events of COVID-19, expert connoisseurs expect plant-based foods, veganism, nutrition-hacking and comfort foods to be what the everyman will be seen to revert towards. The recipes I have chosen are packed full of healthy ingredients, are vegetarian and definitely comforting!  
 
