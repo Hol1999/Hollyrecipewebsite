@@ -14,8 +14,6 @@ tags: null
 * 175g caster sugar
 * grated rind and juice of 2 unwaxed lemons
 
-
-
 ## Method
 
 Pour the cream into a pan. Add the caster sugar and stir until dissolved. Bring to the boil, stirring constantly on medium heat. 
@@ -28,10 +26,8 @@ For decoration, sprinkle the leftover rind.
 
 It is nice served with shortbread and some limoncello.
 
-### Inspiration came from: 
+### Inspiration came from:
 
 BEST-EVER 30-minute Cookbook by Jenni Fleetwood
-
-
 
 ![Lemon posset with a side of shortbread and a shot glass of limoncello](../uploads/lemonposset.jpg "Lemon Posset")
