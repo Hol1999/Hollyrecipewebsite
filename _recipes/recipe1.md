@@ -12,7 +12,7 @@ tags: null
 
 * Rigatoni
 * Orange Pepper
-* Parmigiano
+* Parmigiano-Reggiano
 * ½ Garlic
 * 2 Courgettes
 * A packet of whole tomatoes (or 10 medium-sized)
@@ -32,8 +32,10 @@ During the 15 mins, boil and salt the pasta water and cook the pasta for the all
 
 Add some of the tomato paste, mix!
 
-Combine the pasta and the now simmered done vegetables. Add some parmigiano and enjoy :)
+Combine the pasta and the now simmered done vegetables. Add some Parmigiano and enjoy :)
 
-### Inspiration came from: <https://www.tiktok.com/@imp_of_the_perverse/video/6918561341234105606?lang=en&is_copy_url=1&is_from_webapp=v1>
+### Inspiration came from:
 
-![Bowl of the editors' rigatoni with a sprinkling of parmigiano](../uploads/rigatoni.jpg "Vegetable Rigatoni")
+### <https://www.tiktok.com/@imp_of_the_perverse/video/6918561341234105606?lang=en&is_copy_url=1&is_from_webapp=v1>
+
+![Bowl of rigatoni with a sprinkling of Parmigiano-Reggiano](../uploads/rigatoni.jpg "Vegetable Rigatoni")
