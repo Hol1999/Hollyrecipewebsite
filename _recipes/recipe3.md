@@ -47,6 +47,6 @@ Voila!
 
 ### Inspiration came from:
 
-Complete Italian StMichael FROM MARKS & SPENCER cookbook
+Complete Italian StMichael FROM MARKS & SPENCER Cookbook
 
 ![Two dishes of cooked Lasagna on a table ](../uploads/lasagna.jpg "Lasagna for the family")
