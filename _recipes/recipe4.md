@@ -1,26 +1,38 @@
 ---
-title: Recipe 4
+title: Cheat Italian Pizza
 order: 4
 date: 2019-10-19
 layout: recipe
 published: true
 tags: null
 ---
+### Difficulty:  *Time:* 
+
 ## Ingredients
 
-* Fresh spinach
-* Sourdough bread
-
-  Goats cheese
-
-  2 eggs
-* Habanero
-* Salted butter
-* Olive oil
+* Pre-made pizza dough
+* Flour
+* Pizza sauce
+* Mozzarella
+* Butter
+* Everything bagel seasoning
 
 ## Method
 
-Oil in the pan, add the spinach, salt and pepper ~ stir.  Season the board, roll the cheese in the seasoning, set the spinach aside, add the habanero to the pan... add the eggs, season, add some milk, whisk! Add the eggs to the habanero, throw in the spinach, season with the goats cheese, then flip. Voila!
+Sprinkle some flour on your work surface
 
-* Serves: 1
-* Preparation time: 20 mins
+Place the pizza dough and work it to the shape you want.
+
+Add your sauce and mozzarella.
+
+Paint your crusts with butter and everything bagel seasoning.
+
+Leave it in the oven until golden brown.
+
+Voila!
+
+### Inspiration came from:
+
+https://www.tiktok.com/@nick.digiovanni/video/6901027824140815622?lang=en&is_copy_url=1&is_from_webapp=v1
+
+![Heart-shaped pizza]( "Cheat Italian Pizza")
