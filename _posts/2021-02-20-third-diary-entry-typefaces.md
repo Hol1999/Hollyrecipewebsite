@@ -3,7 +3,7 @@ layout: post
 title: "Third diary entry: Typefaces"
 date: 2021-02-20T12:22:16.169Z
 header_feature_image: ../uploads/fonts.jpg
-title_color: "#e20505"
+title_color: "#000000"
 caption: tornbetween 20/2/21
 comments: false
 tags:
