@@ -27,4 +27,6 @@ Link to the history of Italian Old Style: <http://luc.devroye.org/fonts-89056.ht
 
 * I have written up my six recipes, each including an image of the food I have made (which I have also uploaded onto my tornbetween_ Instagram account). For each of the recipes,  I wrote an introduction to the different dishes, some with the history of the food. Which were interesting to research, in their own right. I have made progress on my HTML and CSS and will upload the coding to my GitHub in the very near future. I have written up 3 out of my 6 blogs consecutively every Saturday, there may potentially be more. 
 
+
+
   ![A picture of tornbetween's Instagram page: with images of food and book cover](../uploads/instagramtornbetween.jpg "tornbetween's Instagram account")
