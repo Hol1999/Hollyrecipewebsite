@@ -6,11 +6,13 @@ layout: recipe
 published: true
 tags: null
 ---
+![Feta and Tomato Spirali in baking tray](../uploads/feta1.jpg "Feta and Tomato Spirali")
+
 Spirali is a nickname for the Italian pasta named after their word for 'corkscrew' Cavatappi. Its alternative names are quite humorous 'Serpentini' and 'double elbows'.  It is a common choice for macaroni recipes.
 
-### Difficulty:\*   Time: \**
+##### Difficulty - \* //  Time - \**
 
-## Ingredients
+### Ingredients
 
 * Cherry tomatoes
 * Block of feta
@@ -21,7 +23,7 @@ Spirali is a nickname for the Italian pasta named after their word for 'corkscre
 * Salt
 * Pepper
 
-## Method
+### Method
 
 Preheat the oven to 200℃ (or 180 ℃ Fan)
 
@@ -35,6 +37,11 @@ Add the cooked pasta with the feta, tomato, garlicky goodness!
 
 Then it’s time to eat...
 
-### Inspiration came from: <https://www.tiktok.com/@feelgoodfoodie/video/6922938178559069446?lang=en&is_copy_url=1&is_from_webapp=v1>
+##### Serving: 5 portions
+
+Inspiration came from: <https://www.tiktok.com/@feelgoodfoodie/video/6922938178559069446?lang=en&is_copy_url=1&is_from_webapp=v1>
+
+#### Here's the one I made, it made about 5 portions in the end.
+To reheat, place in the microwave for 3 mins (700 watts) stirring halfway, I also found that it tasted better days later - tornbetween.
 
 ![Editor holding the finished feta and tomato spirali in a bowl with the pasta combined with the sauce](../uploads/feta2.jpg "Feta and Tomato Spirali dish")
