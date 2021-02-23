@@ -6,9 +6,9 @@ layout: recipe
 published: true
 tags: null
 ---
-![Feta and Tomato Spirali in baking tray](../uploads/feta1.jpg "Feta and Tomato Spirali")
-
 Spirali is a nickname for the Italian pasta named after their word for 'corkscrew' Cavatappi. Its alternative names are quite humorous 'Serpentini' and 'double elbows'.  It is a common choice for macaroni recipes.
+
+![Feta and Tomato Spirali in baking tray](../uploads/feta1.jpg "Feta and Tomato Spirali")
 
 ##### Difficulty - \* //  Time - \**
 
