@@ -27,7 +27,7 @@ display: block;
 }
 
 h1 {
-color: black;
+color: rgb(182,46,46);
 font-family: georgia, monospace, serif;
 text-align: center;
 }
@@ -38,7 +38,7 @@ font-family: georgia, monospace, serif;
 }
 
 h3{
-color: black;
+color: rgb(182,46,46);
 font-family: georgia, monospace, serif;
 
 }
@@ -49,7 +49,7 @@ font-size: 16px;
 text-align: center; 
 }
 
-h5{color: black;
+h5{color: rgb(182,46,46);
 font-family: georgia, monospace, serif;
 font-style: italic;
 
