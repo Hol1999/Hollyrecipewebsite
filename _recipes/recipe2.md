@@ -36,6 +36,8 @@ vi. Drizzle over the remaining oil. Bake for 15 minutes, until the pastry is puf
 
 ##### Servings: 4 portions
 
-Inspiration came from: A Sainsbury's leaflet, my mother and I picked up years ago. <https://recipes.sainsburys.co.uk/recipes/main-courses/roasted-red-pepper-tart>
+Inspiration came from: <https://recipes.sainsburys.co.uk/recipes/main-courses/roasted-red-pepper-tart>
+
+#### My mother and I picked up a Sinabury's leaflet years ago and re-made it recently - it was delicious. 
 
 ![Red Pepper and Goats Cheese Tart on a woodern board](../uploads/redpeppertart.jpg "Roasted Red Pepper and Goats Cheese Tart")
