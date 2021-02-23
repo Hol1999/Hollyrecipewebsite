@@ -6,11 +6,11 @@ layout: recipe
 published: true
 tags: null
 ---
-Lasagne is the correct spelling, although it has become more regularly referred to as 'lasagna' outside of Italy. The Italians usually refer to their pasta dishes in the pural sense because there is more than one piece of pasta in a dish. It is considered a main dish or a primo, it is considered as one of Italy's oldest dishes, as it is thought to have originated in the middle-ages.  
+Lasagne is the correct spelling, although it has become more regularly referred to as 'lasagna' outside of Italy. The Italians usually refer to their pasta dishes in the plural sense because there is more than one piece of pasta in a dish. It is considered a main dish or a primo, it is considered as one of Italy's oldest dishes, as it is thought to have originated in the middle-ages.  
 
-### Difficulty: \*\* **Time: \*\***
+##### Difficulty: \*\* **Time: \*\***
 
-## Ingredients
+### Ingredients
 
 ##### For the meat sauce
 
@@ -45,20 +45,20 @@ Lasagne is the correct spelling, although it has become more regularly referred 
 * 50g Parmesan cheese
 * 15g butter
 
-## Method
+### Method
 
-Make the meat sauce by heating oil in a saucepan, saute the onion, garlic, bacon, carrot, celery until golden. Add the beef and cook until brown, stirring occasionally. Add the red wine and bring to the boil. Reduce the temperature of the hob slightly to medium until the wine has evaporated, then season with salt and pepper. Add the milk and nutmeg, stir until the milk is absorbed. Add the tomatoes, sugar and oregano. Reduce the heat again and let it simmer for 2-3 hours until the sauce is reduced. 
+i. Make the meat sauce by heating oil in a saucepan, saute the onion, garlic, bacon, carrot, celery until golden. Add the beef and cook until brown, stirring occasionally. Add the red wine and bring to the boil. Reduce the temperature of the hob slightly to medium until the wine has evaporated, then season with salt and pepper. Add the milk and nutmeg, stir until the milk is absorbed. Add the tomatoes, sugar and oregano. Reduce the heat again and let it simmer for 2-3 hours until the sauce is reduced. 
 
-Make the bechamel sauce by melting the butter in a pan, stirring in the flour. Cook over a gentle heat for 2-3 mins, then gradually beating in the milk until the sauce is thick.  Season with nutmeg, salt, pepper and cook for 5-10 mins.
+ii. Make the bechamel sauce by melting the butter in a pan, stirring in the flour. Cook over a gentle heat for 2-3 mins, then gradually beating in the milk until the sauce is thick.  Season with nutmeg, salt, pepper and cook for 5-10 mins.
 
-To layer, place a bit of the meat sauce in the baking dish, cover with a sheet of lasagne, add another layer of meat sauce and then add some bechamel sauce, continue layering in this fashion until you run out of ingredients. Finish with a layer of bechamel. 
+iii. To layer, place a bit of the meat sauce in the baking dish, cover with a sheet of lasagne, add another layer of meat sauce and then add some bechamel sauce, continue layering in this fashion until you run out of ingredients. Finish with a layer of bechamel. 
 
-Sprinkle with some grated parmesan and dollop some butter here and there on top of the last bechamel sauce layer. Place in the oven (preheated) at 230oc (210 Fan) for 30 mins.
+iv. Sprinkle with some grated parmesan and dollop some butter here and there on top of the last bechamel sauce layer. Place in the oven (preheated) at 230oc (210 Fan) for 30 mins.
 
 Voila!
 
-### Inspiration came from:
+##### Serving: 6 portions
 
-Complete Italian StMichael FROM MARKS & SPENCER Cookbook
+Inspiration came from: Complete Italian StMichael FROM MARKS & SPENCER Cookbook
 
-![Two dishes of cooked Lasagna on a table ](../uploads/lasagna.jpg "Lasagna for the family")
+![Two dishes of cooked Lasagne on a table ](../uploads/lasagna.jpg "Lasagne for the family")
