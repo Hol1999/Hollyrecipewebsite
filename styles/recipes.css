@@ -9,6 +9,10 @@ div.content{
 
 }
 
+header{
+font-family: Garamond, georgia, arial, helvetica, serif;  
+}
+
 body {
 background-color: rgb(224, 233, 232);
 font-family: georgia, arial, helvetica, serif;
