@@ -10,7 +10,8 @@ div.content{
 }
 
 header{
-font-family: Garamond, georgia, arial, helvetica, serif;  
+font-family: Garamond, georgia, arial, helvetica, serif;
+position: fixed;
 }
 
 body {
