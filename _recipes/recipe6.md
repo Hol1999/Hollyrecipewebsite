@@ -11,9 +11,9 @@ tags:
 ---
 Bruschetta is a type of antipasto consisting of toasted bread typically topped with fresh tomatoes, cured meats or cheese. The dish is said to date back to Ancient Rome where olive growers would bring their harvested olives to taste on some freshly baked bread.
 
-### Difficulty: \* Time: \*
+##### Difficulty: \* Time: \*
 
-## Ingredients
+### Ingredients
 
 * One large buffalo tomato
 * Ciabatta
@@ -24,22 +24,22 @@ Bruschetta is a type of antipasto consisting of toasted bread typically topped w
 * Pepper
 * 1 or 2 cloves of garlic
 
-## Method
+### Method
 
-Chop finely the tomato
+i. Chop finely the tomato
 
-Toast the ciabatta in a pan, with some olive oil. Turn on both sides and make sure it's a nice golden colour.
+ii. Toast the ciabatta in a pan, with some olive oil. Turn on both sides and make sure it's a nice golden colour.
 
-In a bowl, add the tomato, and a drizzle of olive oil and balsamic vinegar with some salt and pepper. Add some finely chopped garlic and stir.
+iii. In a bowl, add the tomato, and a drizzle of olive oil and balsamic vinegar with some salt and pepper. Add some finely chopped garlic and stir.
 
-Top the tomato mixture on the ciabatta with some fresh basil or instead eat with a side of rocket, anchovies and a poached egg. 
+iv. Top the tomato mixture on the ciabatta with some fresh basil or instead eat with a side of rocket, anchovies and a poached egg. 
 
-There we go, that's it. Done!
+v. There we go, that's it. Done!
 
-### Inspiration came from:
+##### Serving: 2 portions
 
-### <https://www.tiktok.com/@eitan/video/6845019460416376070?lang=en>
+Inspiration came from: <https://www.tiktok.com/@eitan/video/6845019460416376070?lang=en>
 
 The inspiration for this recipe came from the tiktoker mentioned in the URL above, as well as, an Italian restaurant we went to.
 
-![Two slices of bruschetta : fresh tomato mix on toasted ciabatta](../uploads/brushetta.jpg "Bruschetta")
+![Two slices of Bruschetta : fresh tomato mix on toasted Ciabatta](../uploads/brushetta.jpg "Bruschetta")
