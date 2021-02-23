@@ -1,6 +1,7 @@
 ---
 title: "tornbetween "
-subtitle: 6 delectable Italian-inspired comfort recipes
+subtitle: 6 delectable Italian-inspired comfort recipes. Can you make a
+  decision, or will you be torn between?
 permalink: /recipes/
 date: 2020-11-19T18:50:31.663Z
 show: true
