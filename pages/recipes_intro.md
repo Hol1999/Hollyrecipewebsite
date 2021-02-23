@@ -8,7 +8,7 @@ layout: recipeshome
 ---
 This is the home page for my recipes.
 
-I have a collection of 6 delicious Italian-inspired recipes. They are all comforting, healthy, vegetarian dishes for you to try at home.  
+**This eBook contains 6 delicious, effortless Italian recipes with European-Mediterranean influence. Following the 2021 food trends of breakfast, nutrition-hacking and comfort foods, tornbetween features delectable dishes - from Seasonal Vegetable Frittatas, filling Lasagne, two stunning authentic Italian Pasta dishes and more... These recipes transform common ingredients often found in everyone’s pantries, into meals that *all* will love; widening your horizon on the endless potential these ingredients have to offer ~ impressing family and friends alike on your culinary repertoire.** 
 
 <https://tornbetween.netlify.app/allrecipes>
 
