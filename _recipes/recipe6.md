@@ -40,6 +40,6 @@ v. There we go, that's it. Done!
 
 Inspiration came from: <https://www.tiktok.com/@eitan/video/6845019460416376070?lang=en>
 
-The inspiration for this recipe came from the tiktoker mentioned in the URL above, as well as, an Italian restaurant we went to.
+#### The inspiration for this recipe came from the tiktoker mentioned in the URL above, as well as, an Italian restaurant we went to.
 
 ![Two slices of Bruschetta : fresh tomato mix on toasted Ciabatta](../uploads/brushetta.jpg "Bruschetta")
