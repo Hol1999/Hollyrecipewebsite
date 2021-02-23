@@ -38,7 +38,7 @@ vi. Add some of the tomato paste, mix!
 
 vii. Combine the pasta and the now simmered done vegetables. Add some Parmigiano and enjoy :)
 
-Serving: 4 portions
+##### Serving: 4 portions
 
 Inspiration came from: <https://www.tiktok.com/@imp_of_the_perverse/video/6918561341234105606?lang=en&is_copy_url=1&is_from_webapp=v1>
 
