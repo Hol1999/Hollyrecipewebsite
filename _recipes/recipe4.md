@@ -8,28 +8,28 @@ tags: null
 ---
 An interesting fact about Lemon Posset is that it was considered in the past to be a remedy for the common cold and insomnia. Despite the posset originating in England in the sixteenth century, with the addition of Italian Sicilian lemons and a side of limoncello, this recipe has the influence of Italy. 
 
-### Difficulty: \*  Time: \**
+##### Difficulty: \*  Time: \**
 
-## Ingredients
+### Ingredients
 
 * 600ml double heavy cream
 * 175g caster sugar
 * grated rind and juice of 2 unwaxed Sicilian lemons
 
-## Method
+### Method
 
-Pour the cream into a pan. Add the caster sugar and stir until dissolved. Bring to the boil, stirring constantly on medium heat. 
+i. Pour the cream into a pan. Add the caster sugar and stir until dissolved. Bring to the boil, stirring constantly on medium heat. 
 
-Add almost all of the rind and juice of the lemons, keep a little of the rind for decoration. Stir until the mixture has thickened.
+ii. Add almost all of the rind and juice of the lemons, keep a little of the rind for decoration. Stir until the mixture has thickened.
 
-Pour the mixture into heat-proof glasses. Refrigerate till it has set. 
+iii. Pour the mixture into heat-proof glasses. Refrigerate till it has set. 
 
-For decoration, sprinkle the leftover rind. 
+iv. For decoration, sprinkle the leftover rind. 
 
-It is nice served with shortbread and some limoncello.
+v. It is nice served with shortbread and some limoncello.
 
-### Inspiration came from:
+##### Serving: 4 portions
 
-BEST-EVER 30-minute Cookbook by Jenni Fleetwood
+Inspiration came from: BEST-EVER 30-minute Cookbook by Jenni Fleetwood
 
-![Lemon posset with a side of shortbread and a shot glass of limoncello](../uploads/lemonposset.jpg "Lemon Posset")
+![Lemon Posset with a side of shortbread and a shot glass of Limoncello](../uploads/lemonposset.jpg "Lemon Posset")
