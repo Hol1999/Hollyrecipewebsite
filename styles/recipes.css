@@ -1,4 +1,77 @@
 /* CSS for recipes */
+div.everything{
+  margin: 0 auto 0 auto;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  max-width: 800px;
+
+}
+
+body {
+background-color: white;
+font-family: georgia, arial, helvetica, serif;
+
+}
+
+
+
+img{
+width: 70%;
+max-width: 500px;
+height: 70%
+max-height: 90%;
+margin: 0 auto;
+display: block;
+}
+
+h1 {
+color: black;
+font-family: georgia, monospace, serif;
+text-align: center;
+}
+
+h2 {
+color: black;
+font-family: georgia, monospace, serif;
+}
+
+h3{
+color: black;
+font-family: georgia, monospace, serif;
+
+}
+
+h4{color: black;
+font-family: georgia, monospace, serif;
+font-size: 16px;
+}
+
+h5{color: black;
+font-family: georgia, monospace, serif;
+font-style: italic;
+
+}
+
+
+
+h6{font-family: georgia, monospace, serif;
+color: black;
+font-style: normal;
+font-size: 16px;
+
+}
+
+p{
+colour: white;
+}
+
+ul{}
+
+p.blurb {
+font-size: 20px;
+}
 
 html {
   -ms-text-size-adjust: 100%;
@@ -6,15 +79,9 @@ html {
   background: #fff;
 }
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 
-body {
-  margin: 30px;
-}
+
+
 
 article,
 aside,
@@ -32,9 +99,7 @@ summary {
   display: block;
 }
 
-img {
-  max-width: 100%;
-}
+
 
 blockquote {
 }
@@ -50,12 +115,7 @@ td,
 th {
 }
 
-p,
-ol,
-ul {
-  line-height: 1.5;
-  margin-bottom: 1em;
-}
+
 
 hr {
   border: 0;
