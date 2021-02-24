@@ -146,6 +146,7 @@ font-family: Garamond, georgia, monospace, serif;
   padding: 5px;
   margin: 10px 0;
  background-color: white;
+  border: rgb (224, 233, 232);
 }
 
 @media screen and (max-width: 700px){
