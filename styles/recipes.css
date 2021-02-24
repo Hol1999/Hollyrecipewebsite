@@ -141,11 +141,18 @@ ul.allrecipes {
   display: block;
 width: 15%;
 font-size: 80%;
-font color: rgb(50,117,30);
-font-family: Garamond, georgia, monospace, serif;
+
 padding: 5px;
 margin: 10px 0;
  background-color: white;
+ .recipelink{
+ font-color: rgb(50,117,30);
+   font-family: Garamond, georgia, monospace, serif; }
+  
+  .recipehere {
+  font-family: Garamond, georgia, monospace, serif;
+  font-colour: rgb(182,46,46); 
+  }
  
 }
 
