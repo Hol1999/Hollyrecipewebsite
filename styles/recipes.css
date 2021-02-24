@@ -144,9 +144,9 @@ ul.allrecipes {
  color: rgb(50,117,30);
 font-family: Garamond, georgia, monospace, serif;
   padding: 5px;
-  margin: 10px 0;
+  margin: 10px 10;
  background-color: white;
-  border: rgb (224, 233, 232);
+ 
 }
 
 @media screen and (max-width: 700px){
