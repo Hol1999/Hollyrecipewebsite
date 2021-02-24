@@ -139,12 +139,12 @@ ul.allrecipes {
 
 .menu {
   display: block;
- width: 15%;
-  font-size: 80%;
- font color: rgb(50,117,30);
+width: 15%;
+font-size: 80%;
+font color: rgb(50,117,30);
 font-family: Garamond, georgia, monospace, serif;
-  padding: 5px;
-  margin: 7px auto;
+padding: 20% 20%;
+margin: 10% 10%;
  background-color: white;
  
 }
