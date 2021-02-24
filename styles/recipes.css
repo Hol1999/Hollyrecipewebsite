@@ -141,10 +141,10 @@ ul.allrecipes {
   display: block;
  width: 15%;
   font-size: 80%;
- color: rgb(50,117,30);
+ font color: rgb(50,117,30);
 font-family: Garamond, georgia, monospace, serif;
   padding: 5px;
-  margin: 2px 7px;
+  margin: 7px auto;
  background-color: white;
  
 }
