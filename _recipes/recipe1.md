@@ -6,7 +6,7 @@ layout: recipe
 published: true
 tags: null
 ---
-Rigatoni is a particular favourite shape in the Southern regions of Italy as they prefer the rigid edges as opposed to the smooth sides of penne because sauces and cheese stick to the rigatoni better. It is also pronounced 'rig-uh-toe-nee' for those wondering.
+Rigatoni is a particular favourite shape in the Southern regions of Italy as they prefer the rigid edges as opposed to the smooth sides of Penne because sauces and cheese stick to the rigatoni better. It is also pronounced 'rig-uh-toe-nee' for those wondering.
 
 ##### Difficulty: \*   Time: \**
 
@@ -28,7 +28,7 @@ i. Prep the vegetables; quarter the tomatoes, 1/4 the courgettes and then chop t
 
 ii. Add olive oil to a hot pan, then add the garlic.
 
-iii. Add the courgette and simmer for 4 minutes, add the tomatoes, and the pepper. 
+iii. Add the courgette and simmer for 4 minutes, add the tomatoes and the pepper. 
 
 iv. Simmer again for 15 mins.
 
