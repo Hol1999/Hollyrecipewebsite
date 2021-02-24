@@ -145,11 +145,11 @@ font-size: 80%;
 padding: 5px;
 margin: 10px 0;
  background-color: white;
- .recipelink{
+ div.recipelink{
  font-color: rgb(50,117,30);
    font-family: Garamond, georgia, monospace, serif; }
   
-  .recipehere {
+  div.recipehere {
   font-family: Garamond, georgia, monospace, serif;
   font-colour: rgb(182,46,46); 
   }
