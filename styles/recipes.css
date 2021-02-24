@@ -150,16 +150,15 @@ margin: 5px auto;
   top: 0;
   
  text-align: center;
+  
+ .recipe{
+ font-color: rgb(50,117,30);
+   font-family: Garamond, georgia, monospace, serif; }
+ 
  
   }
  
-div.recipelink{
- font-color: rgb(50,117,30);
-   font-family: Garamond, georgia, monospace, serif; }
-  
-  div.recipehere {
-  font-family: Garamond, georgia, monospace, serif;
-    font-colour: rgb(182,46,46); }
+
 
 @media screen and (max-width: 700px){
 
