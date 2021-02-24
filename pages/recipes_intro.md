@@ -19,4 +19,4 @@ This eBook contains 6 delicious, effortless Italian recipes with European-Medite
 
 ### Link to my Instagram page, where I have uploaded the recipes I made:
 
-### [https://www.instagram.com/tornbetween_/](made:ttps://www.instagram.com/tornbetween_/)
+[https://www.instagram.com/tornbetween_/](https://www.instagram.com/tornbetween_/)
