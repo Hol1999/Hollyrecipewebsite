@@ -141,6 +141,15 @@ margin: 5px auto;
     margin: 0 auto 2rem auto;
   }
   
+  div.content{
+  margin: 0 5px 0 5px;
+  padding-top: 50px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  max-width: 800px;
+}
+  
   img {min-width: 80%;}
 
   body{padding: 0}
