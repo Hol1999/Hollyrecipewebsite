@@ -152,5 +152,10 @@ margin: 5px auto;
   
   img {min-width: 80%;}
 
-  body{padding: 0}
 }
+
+@mediascreen and (max-width: 1200px){
+  main{
+  max-width: 90%;
+  }
+} 
