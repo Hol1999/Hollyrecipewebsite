@@ -8,7 +8,7 @@ tags: null
 ---
 Lasagne is the correct spelling, although it has become more regularly referred to as 'Lasagna' outside of Italy. The Italians usually refer to their pasta dishes in the plural sense because there is more than one piece of pasta in a dish. It is usually eaten as a main dish or a primo and is thought to be one of Italy's oldest dishes, as it is said to have originated in the middle-ages.  
 
-##### Difficulty: \*\* **Time: \*\***
+##### Difficulty: \*\* **Time: \*\*\*\***
 
 ### Ingredients
 
