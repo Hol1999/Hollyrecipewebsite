@@ -30,6 +30,6 @@ v. It is nice served with shortbread and some limoncello.
 
 ##### Serving: 4 portions
 
-Inspiration came from: BEST-EVER 30-minute Cookbook by Jenni Fleetwood
+#### Inspiration came from: BEST-EVER 30-minute Cookbook by Jenni Fleetwood
 
 ![Lemon Posset with a side of shortbread and a shot glass of Limoncello](../uploads/lemonposset.jpg "Lemon Posset")
