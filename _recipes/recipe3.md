@@ -52,7 +52,7 @@ ii. Make the bechamel sauce by melting the butter in a pan, stirring in the flou
 
 iii. To layer, place a bit of the meat sauce in the baking dish, cover with a sheet of lasagne, add another layer of meat sauce and then add some bechamel sauce, continue layering in this fashion until you run out of ingredients. Finish with a layer of bechamel. 
 
-iv. Sprinkle with some grated parmesan and dollop some butter here and there on top of the last bechamel sauce layer. Place in the oven (preheated) at 230oC (210 Fan) for 30 mins.
+iv. Sprinkle with some grated parmesan and dollop some butter here and there on top of the last bechamel sauce layer. Place in the oven (preheated) at 230℃ (210℃ Fan) for 30 mins.
 
 Voila!
 
