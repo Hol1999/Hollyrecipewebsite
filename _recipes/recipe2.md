@@ -34,9 +34,7 @@ v. Transfer the cooked pepper and onions to the pastry, making sure to keep with
 
 vi. Drizzle over the remaining oil. Bake for 15 minutes, until the pastry is puffed up and the cheese has melted.
 
-##### Servings: 4 portions
-
-
+##### Serving: 4 portions
 
 ![Red Pepper and Goats Cheese Tart on a woodern board](../uploads/redpeppertart.jpg "Roasted Red Pepper and Goats Cheese Tart")
 
