@@ -1,7 +1,15 @@
 ---
-layout: tags
 title: Tags
 permalink: /tags/
-icon: "fa-tags"
-show: false
+date: 2021-02-25T18:06:04.097Z
+show: true
+layout: tags
+icon: fa-tags
 ---
+Inspiration
+
+Blog
+
+Markup
+
+Typefaces
