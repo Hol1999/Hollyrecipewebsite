@@ -17,6 +17,6 @@ This eBook contains 6 delicious, effortless Italian recipes with European-Medite
 
 ![tornbetween eBook recipe cover which has hand-drawn vegetable illustrations in the colours of Italy.](../uploads/ebook-coverpsd.jpg "tornbetween eBook recipe cover")
 
-### Link to my Instagram page, where I have uploaded the recipes I made:
+##### Link to my Instagram page, where I have uploaded the recipes I made:
 
 [https://www.instagram.com/tornbetween_/](https://www.instagram.com/tornbetween_/)
