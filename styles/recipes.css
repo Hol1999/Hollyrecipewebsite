@@ -155,7 +155,7 @@ margin: 5px auto;
 }
 
 @mediascreen and (max-width: 1200px){
-  main{
+  body{
   max-width: 90%;
   }
 } 
