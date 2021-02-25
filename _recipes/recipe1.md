@@ -40,8 +40,10 @@ vii. Combine the pasta and the now simmered done vegetables. Add some Parmigiano
 
 ##### Serving: 4 portions
 
-Inspiration came from: <https://www.tiktok.com/@imp_of_the_perverse/video/6918561341234105606?lang=en&is_copy_url=1&is_from_webapp=v1>
+
+
+![Bowl of rigatoni with a sprinkling of Parmigiano-Reggiano](../uploads/rigatoni.jpg "Vegetable Rigatoni")
 
 #### Here's the one I made recently, I would recommend a large helping of Parmigiano-Reggiano <3
 
-![Bowl of rigatoni with a sprinkling of Parmigiano-Reggiano](../uploads/rigatoni.jpg "Vegetable Rigatoni")
+Inspiration came from: <https://www.tiktok.com/@imp_of_the_perverse/video/6918561341234105606?lang=en&is_copy_url=1&is_from_webapp=v1>
