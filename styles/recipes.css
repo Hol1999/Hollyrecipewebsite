@@ -149,14 +149,16 @@ margin: 5px auto;
  position: top;
   top: 0;
   
- text-align: center;
+  text-align: center;
+}
   
- .allrecipes{
- font-color: rgb(50,117,30);
-   font-family: Garamond, georgia, monospace, serif; }
+ .allrecipes a:hover {
+ color: rgb(50,117,30);
+   font-family: Garamond, georgia, monospace, serif; 
+}
  
  
-  }
+  
  
 
 
