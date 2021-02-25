@@ -135,8 +135,13 @@ margin: 5px auto;
 }
  
 @media screen and (max-width: 700px){
+  figure {
+   width: 60%;
+    float:none;
+    margin: 0 auto 2rem auto;
+  }
   
-  img {min-width: 60%;}
+  img {min-width: 80%;}
 
   body{padding: 0}
 }
