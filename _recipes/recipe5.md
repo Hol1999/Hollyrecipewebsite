@@ -39,8 +39,10 @@ Then it’s time to eat...
 
 ##### Serving: 5 portions
 
-Inspiration came from: <https://www.tiktok.com/@feelgoodfoodie/video/6922938178559069446?lang=en&is_copy_url=1&is_from_webapp=v1>
+
+
+![Editor holding the finished feta and tomato spirali in a bowl with the pasta combined with the sauce](../uploads/feta2.jpg "Feta and Tomato Spirali dish")
 
 #### Here's the one I made, it made about 5 portions in the end. To reheat, place in the microwave for 3 mins (700 watts) stirring halfway, I also found that it tasted better days later - tornbetween.
 
-![Editor holding the finished feta and tomato spirali in a bowl with the pasta combined with the sauce](../uploads/feta2.jpg "Feta and Tomato Spirali dish")
+Inspiration came from: <https://www.tiktok.com/@feelgoodfoodie/video/6922938178559069446?lang=en&is_copy_url=1&is_from_webapp=v1>
