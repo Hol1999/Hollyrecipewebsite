@@ -38,10 +38,8 @@ v. There we go, that's it. Done!
 
 ##### Serving: 2 portions
 
-
-
 ![Two slices of Bruschetta : fresh tomato mix on toasted Ciabatta](../uploads/brushetta.jpg "Bruschetta")
 
 #### The inspiration for this recipe came from the tiktoker mentioned in the URL above, as well as, an Italian restaurant we went to.
 
-Inspiration came from: <https://www.tiktok.com/@eitan/video/6845019460416376070?lang=en>
+Inspiration came from: [See this site on TikTok](<https://www.tiktok.com/@eitan/video/6845019460416376070?lang=en>)
