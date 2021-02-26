@@ -6,7 +6,7 @@ layout: recipe
 published: true
 tags: null
 ---
-Italian cuisine has been thought to have been inspired by a wide variety of different cultures, including Ancient Greek, Ancient Rome, Arabic cultures as well as Mediterranean and European countries. This Italian-sourced recipe has a large French influence, with the tart being thought to have derived from France.
+Italian cuisine has been thought to have been inspired by a wide variety of different cultures, including Ancient Greek, Ancient Rome, Arabic cultures as well as other Mediterranean and European countries. This Italian-sourced recipe has a large French influence, with the tart being thought to have derived from France.
 
 ##### Difficulty: \*\* Time: \*\**
 
@@ -40,4 +40,4 @@ vi. Drizzle over the remaining oil. Bake for 15 minutes, until the pastry is puf
 
 #### My mother and I picked up a Sainsbury's leaflet years ago and re-made it recently - it was delicious.
 
-Inspiration came from: [See this site on Sainsbury's](<https://recipes.sainsburys.co.uk/recipes/main-courses/roasted-red-pepper-tart>) [](https://recipes.sainsburys.co.uk/recipes/main-courses/roasted-red-pepper-tart)
+Inspiration came from: [See this site on Sainsbury's](https://recipes.sainsburys.co.uk/recipes/main-courses/roasted-red-pepper-tart) [](https://recipes.sainsburys.co.uk/recipes/main-courses/roasted-red-pepper-tart)
