@@ -42,4 +42,4 @@ v. There we go, that's it. Done!
 
 #### The inspiration for this recipe came from the tiktoker mentioned in the URL above, as well as, an Italian restaurant we went to.
 
-Inspiration came from: [See this site on TikTok](<https://www.tiktok.com/@eitan/video/6845019460416376070?lang=en>)
+The inspiration for this dish came from: [See this site on TikTok](https://www.tiktok.com/@eitan/video/6845019460416376070?lang=en)
