@@ -60,4 +60,4 @@ Voila!
 
 ![Two dishes of cooked Lasagne on a table ](../uploads/lasagna.jpg "Lasagne for the family")
 
-#### Inspiration came from: Complete Italian StMichael FROM MARKS & SPENCER Cookbook
+#### The inspiration for this dish came from: Complete Italian StMichael FROM MARKS & SPENCER Cookbook
