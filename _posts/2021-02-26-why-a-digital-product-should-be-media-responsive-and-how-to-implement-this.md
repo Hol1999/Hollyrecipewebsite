@@ -7,7 +7,7 @@ title_color: "#ffffff"
 caption: 27/2/21
 comments: false
 tags:
-  - ""
+  - Media responsive
 ---
 Hi friends, today I'll be focusing on why websites need to be responsive and why we should test a digital product?
 
