@@ -9,7 +9,7 @@ comments: false
 tags:
   - Media responsive
 ---
-Hi friends, today I'll be focusing on why websites need to be responsive and why we should test a digital product? And what should you be testing?
+Hi friends, today I'll be focusing on why websites need to be responsive? Why we should test a digital product? And what should you be testing?
 
 1. Why websites need to be responsive: When I was creating the recipe section of my/this website on HTML and CSS, I was using my laptop which has 2560 x 1600 pixels, my phone in comparison is 667 x 375 px. With the variation of screen sizes, my CSS was **only** compatible with my laptop causing my content to appear on my phone in an unsatisfactory manner. See below:
 
@@ -47,6 +47,6 @@ Hi friends, today I'll be focusing on why websites need to be responsive and why
 
    Sometimes when you build an app or website, the creator personally knows the ins and outs, but is it 'idiot-proof' or perhaps rephrased nicer is it **really easy** to manoeuvre? A good way to test these things is to get some guinea pigs to work their way around the website and offer some *constructive* criticism. 
 
-   ## 'What I've done so far' segment: 
+   ## 'What I've done so far' segment:
 
    * So, I have uploaded my working CSS to GitHub and I'm happy with it. It radiates Italian, it's full of colour (I've gotten used to the American spelling of 'color' though, because of the markup language :D) and variation. Hopefully showcasing a bit of knowledge of HTML and CSS now. I've definitely learnt a lot, anyway. I've written 4/6+ blogs and I'm ready to start on my eBook. Thanks - your editor, tornbetween. <3
