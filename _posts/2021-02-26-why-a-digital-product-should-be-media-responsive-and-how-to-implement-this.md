@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why a digital product should be media responsive and how to implement this
-date: 2021-02-27T15:00:00.000Z
+date: 2021-02-27T13:00:00.000Z
 header_feature_image: ../uploads/iphone8.2.jpg
 title_color: "#ffffff"
 caption: 27/2/21
