@@ -43,4 +43,4 @@ Then it’s time to eat...
 
 #### Here's the one I made, it made about 5 portions in the end. To reheat, place in the microwave for 3 mins (700 watts) stirring halfway, I also found that it tasted better days later - tornbetween.
 
-Inspiration came from: [See this site on TikTok](<https://www.tiktok.com/@feelgoodfoodie/video/6922938178559069446?lang=en&is_copy_url=1&is_from_webapp=v1>)
+The inspiration for this dish came from: [See this site on TikTok](https://www.tiktok.com/@feelgoodfoodie/video/6922938178559069446?lang=en&is_copy_url=1&is_from_webapp=v1)
