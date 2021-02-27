@@ -12,6 +12,7 @@ tags:
 Hi again, *tornbetween* editor here. This weeks theme is 'HTML and recipe books'. What I'll be talking about is: Who invented HTML? What is Markup language? Are recipe books popular? Lastly, where people find their recipes?
 
 1. Who invented HTML: The first version of *Hypertext Markup Language* was written in 1993 by Tim Berners-Lee. In the 2000s, the most widely-used version of HTML was HTML.4.01, however, the latest version used is HTML5. HTML5 was developed by two organisations: W3C and WHATWG. 
+
 2. What is Markup Language: It is coding that web browsers like Safari or Chrome use to 'interpret and compose text, images, and other material into visual or audible web pages'. Examples include HTML which inputs text on a web browser and style sheets like CSS (another type of markup language), which 'styles' the HTML to make the text and images look aesthetically pleasing. For our module, we use an editing software called Atom (where we compose our HTML and CSS), which works alongside GitHub to make this website your own right now possible! If you go onto tornbetween, on the menu bar at the top of the home page, that will take you to my recipe site, which I designed using these Markup languages. It was a little tricky to use at first, however, with a couple of Google searches or help from some lecturers (in my case) it's not too difficult to get your head around once you know the core principles of the language and placements of the code.
 
 Below is a link to the History of HTML is you are interested in expanding your knowledge:
