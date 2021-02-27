@@ -2,7 +2,7 @@
 layout: post
 title: Why a digital product should be media responsive and how to implement this
 date: 2021-02-27T11:28:00.000Z
-header_feature_image: ../uploads/brushetta.jpg
+header_feature_image: ../uploads/codeblock.jpg
 title_color: "#ffffff"
 caption: 27/2/21
 comments: false
