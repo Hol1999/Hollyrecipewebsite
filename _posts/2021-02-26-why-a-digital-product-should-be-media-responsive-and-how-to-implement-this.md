@@ -2,7 +2,7 @@
 layout: post
 title: Why a digital product should be media responsive and how to implement this
 date: 2021-02-27T11:28:00.000Z
-header_feature_image: ../uploads/media.jpg
+header_feature_image: ../uploads/iphone8.2.jpg
 title_color: "#ffffff"
 caption: 27/2/21
 comments: false
@@ -19,14 +19,16 @@ As you can see, the text *is* still legible, however, the text could be improved
 
 Here's an example of a segment of my CSS that fixed the issue with stretching the text out to fit my phone:
 
-   @media screen and (max-width: 700px){
+
+
+```
+  @media screen and (max-width: 700px){
     figure {
       width: 60%;
       float:none;
       margin: 0 auto 2rem auto;
      }
-
-```
+ 
  div.content{
  margin: 0 5px 0 5px;
  padding-top: 50px;
@@ -39,9 +41,7 @@ Here's an example of a segment of my CSS that fixed the issue with stretching th
 
 See below the improvements this made to my content's design:
 
-![Better example of the recipe media responsiveness](../uploads/media.jpg "Better example of media responsiveness")
-
-
+![Better example of the recipe media responsiveness](../uploads/iphone8.2.jpg "Better example of media responsiveness")
 
 When you add '@media' to a CSS, the content will directly target the different window sizes, in this case, I targeted screens with a max-width of 700px. In my humble opinion, I believe the second image to be a nicer visual for a phone format. What do you think?  
 
@@ -54,4 +54,4 @@ Sometimes when you build an app or website, the creator personally knows the ins
 
 ## **'What I've done so far' segment:**
 
-~ So, I have uploaded my working CSS to GitHub and I'm happy with it. It radiates Italian, it's full of colour (I've gotten used to the American spelling of 'color' though, because of the markup language :D) and variation. Hopefully showcasing a bit of knowledge of HTML and CSS now. I've definitely learnt a lot, anyway. I've written 4/6+ blogs and I'm ready to start on my eBook. Thanks - your editor, tornbetween. <3
+* So, I have uploaded my working CSS to GitHub and I'm happy with it. It radiates Italian, it's full of colour (I've gotten used to the American spelling of 'color' though, because of the markup language :D) and variation. Hopefully showcasing a bit of knowledge of HTML and CSS now. I've definitely learnt a lot, anyway. I've written 4/6+ blogs and I'm ready to start on my eBook. Thanks - your editor, tornbetween. <3
