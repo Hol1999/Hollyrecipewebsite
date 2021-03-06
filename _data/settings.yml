@@ -5,7 +5,7 @@ footer_text: Copyright 2021 Holly Doogood
 header_feature_image: ../uploads/pastaupdate.jpg
 header_text: tornbetween
 header_text_color: "#fdfdfd"
-bannerheight: 20vmax
+bannerheight: 40vmax
 logo: ../uploads/screenshot-2021-02-09-at-15.24.51.png
 favicon: ../uploads/screenshot-2021-02-09-at-15.24.51.png
 gridlayout: true
