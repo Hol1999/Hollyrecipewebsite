@@ -21,9 +21,13 @@ Well, this is done via the internet or in-built apps on smartphones, devices etc
 In terms of marketing your eBook for distribution, you should:
 
 1. Promote it on your website (as I have done, see my navigation bar at the top of my home screen: tornbetween).
-
 2. Promote it on different social media i.e. Instagram, Twitter, Facebook (preferably with a lot of hashtags, so it's easier to reach your target market due to their sites impressive algorithms).
-
 3. Reach out to campaigns, influencers, newspapers etc anyone that you would think would be interested in promoting your eBook in exchange maybe for a free copy. 
 
 ~ What formats do eBooks take: There are a vast array of different formats, but for our module, we'll be using the widely used ePub3 (which was launched in 2011). ePub3 USPs are said to be due to its reflowable nature and its compatible with lots of different media screens.
+
+If you want to read up a bit more on eBooks, I recommend this[ link](<https://learn.g2.com/what-is-an-ebook#:~:text=epub),to%20read%20on%20small%20devices.>):
+
+### 'What I've done so far' segment
+
+* I have made my recipe site live via GitHub! I think it was a fun experience, all in all, learning how to code correctly, how HTML, CSS, Atom, GitHub work and styling a full page of recipes. It has also made me less scared of going out of my comfort zone and cooking meals of different cultures and difficulty. I think the hardest thing about the coding was how sometimes it felt like trial and error, what goes where...is this the right word to reference in CSS etc but we made it in the end with a *bit* of help. And I'm excited to start the next phase of the module by creating an eBook and now I have prior knowledge about it thanks to my research! See you next week - tornbetween.
