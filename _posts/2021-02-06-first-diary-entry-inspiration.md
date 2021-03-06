@@ -3,7 +3,7 @@ layout: post
 title: What inspired to me to create an Italian-styled eBook and rules to follow
   when designing an eBook yourself
 date: 2021-02-06T15:22:43.086Z
-header_feature_image: ../uploads/cheers.jpg
+header_feature_image: ../uploads/maddi-bazzocco-ikjvpxuk4za-unsplash.jpg
 title_color: "#ffffff"
 caption: tornbetween 6/2/21
 comments: true
