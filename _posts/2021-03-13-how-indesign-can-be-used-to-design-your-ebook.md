@@ -3,7 +3,7 @@ layout: post
 title: How InDesign can be used to design your eBook
 date: 2021-03-13T10:24:24.067Z
 header_feature_image: ../uploads/firststagesofdesignebook.jpg
-title_color: "#ffffff"
+title_color: "#000000"
 caption: 13/3/21
 comments: false
 tags:
