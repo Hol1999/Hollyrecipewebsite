@@ -17,3 +17,5 @@ Typefaces
 Media responsive
 
 eBooks
+
+InDesign
