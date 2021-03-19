@@ -11,11 +11,32 @@ tags:
 ---
 Good afternoon! The topic of my blog today is Adobe InDesign. I'll be talking about how 'style terms' differ in comparison to those used in CSS. What the difference is between paragraph and character styles.
 
-1. How InDesign style terms differ from those used in CSS:
+
+
+**~ How InDesign style terms differ from those used in CSS:**
 
 
 
-2. What is the difference between *paragraph styles* and *character styles*:
+**CSS style terms vs InDesign style terms**
+
+Here's a list of a few style terms I used to style my allrecipe webpage using CSS: *Header, Body, p, img, h1-6, html, padding, position, text-align, @media screen.* The one limitation with CSS is that you kind of feel stuck in the deep end, you need to know style terms before you start. If the coding is done incorrectly, it will show up red but it doesn't state how to fix the issue. You can target 'paragraph styles' in a way by using p{}, h1{}, body{}, but I could only really use two/three types of styles like font, font color and text-align.
+
+In comparison, for InDesign, all the options are available to you with one touch of a button, you can experiment that much easier and you can basically teach yourself. It has an error box at the bottom of the page with hints on how to fix the problem which I find really useful. The style terms that I commonly use include: properties, paragraph and character styles, links, place, fitting > fill frame proportionally, hyphenation, justification etc. 
+
+Another good thing about InDesign is that you can see previews automatically instead of having to save, refresh your screen and having to set up a browser that may or may not be linked to your real live website, which you do for CSS. 
+
+
+
+Links to CSS and InDesign style terms:
+
+1. If you're looking for an extensive list of definitions for InDesign terms, click this [link](https://www.paperandoats.com/blog-native/31-adobe-indesign-terms-defined). 
+2. If you're instead hoping for a vast list of CSS terms this [link](https://www.impressivewebs.com/css-terms-definitions/) is for you.
+
+
+
+**~ What is the difference between *paragraph styles* and *character styles*:**
+
+
 
 **Paragraph styles**
 
@@ -25,20 +46,19 @@ Good afternoon! The topic of my blog today is Adobe InDesign. I'll be talking ab
 
 *In the image below, you can see paragraph styles have been applied to the body text and the headings.*
 
+![An example of a book with character and paragraph styles applied](../uploads/candpstyles.jpg "An example of a book with character and paragraph styles applied")
+
 **Character styles**
 
 \- Instead of a style that applies to an entire paragraph, character styles can pinpoint certain characters within your paragraphs and layer on different attribute features. This can be used in the case of drop caps at the start of your chapters, or if you want one word to be larger than the rest, or a different colour, font etc. 
 
-*In the image below, you can see one character style has been applied to the **4.2** (next to Out and About)*
+*In the image above, you can see one character style has been applied to the **4.2** (next to Out and About)*
 
-![An example of a book with character and paragraph styles applied](../uploads/candpstyles.jpg "An example of a book with character and paragraph styles applied")
-
-Links and further references to what I spoke about, including a YouTube video on InDesign paragraph styles and characters styles. And links to CSS and InDesign terms:
+For a more in-depth reference to what I spoke about, I recommend you watch this YouTube video on InDesign paragraph styles and characters styles. 
 
 <div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/pG9JkAPLgs8?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-1. If you're looking for an extensive list of definitions for InDesign terms, click this [link](https://www.paperandoats.com/blog-native/31-adobe-indesign-terms-defined). 
-2. If you're instead hoping for a vast list of CSS terms this [link](https://www.impressivewebs.com/css-terms-definitions/) is for you.
+
 
 ### 'What I've done so far' segment
 
