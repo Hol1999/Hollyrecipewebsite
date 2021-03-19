@@ -13,9 +13,17 @@ Good afternoon! The topic of my blog today is Adobe InDesign. I'll be talking ab
 
 1. How InDesign style terms differ from those used in CSS:
 
+**InDesign style terms vs CSS style terms**
+
+Here's a list of a few style terms I used to style my allrecipe webpage using CSS: *Header, Body, p, img, h1-6, html, padding, position, text-align, @media screen.* The one limitation with CSS is that you kind of feel stuck in the deep end, you need to know style terms before you start. If the coding is done incorrectly, it will show up red but it doesn't state how to fix the issue.
+
+In comparison, for InDesign, all the options are available to you with one touch of a button, you can experiment that much easier and you can basically teach yourself. It has an error box at the bottom of the page with hints on how to fix the problem which I find really useful. The style terms 
 
 
-2. What is the difference between *paragraph styles* and *character styles*:
+
+
+
+1. What is the difference between *paragraph styles* and *character styles*:
 
 **Paragraph styles**
 
@@ -25,13 +33,17 @@ Good afternoon! The topic of my blog today is Adobe InDesign. I'll be talking ab
 
 *In the image below, you can see paragraph styles have been applied to the body text and the headings.*
 
+
+
+![An example of a book with character and paragraph styles applied](../uploads/candpstyles.jpg "An example of a book with character and paragraph styles applied")
+
 **Character styles**
 
 \- Instead of a style that applies to an entire paragraph, character styles can pinpoint certain characters within your paragraphs and layer on different attribute features. This can be used in the case of drop caps at the start of your chapters, or if you want one word to be larger than the rest, or a different colour, font etc. 
 
-*In the image below, you can see one character style has been applied to the **4.2** (next to Out and About)*
+*In the image above, you can see one character style has been applied to the **4.2** (next to Out and About)*
 
-![An example of a book with character and paragraph styles applied](../uploads/candpstyles.jpg "An example of a book with character and paragraph styles applied")
+
 
 Links and further references to what I spoke about, including a YouTube video on InDesign paragraph styles and characters styles. And links to CSS and InDesign terms:
 
