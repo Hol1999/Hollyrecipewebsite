@@ -27,7 +27,7 @@ In terms of marketing your eBook for distribution, you should:
 
 ~ What formats do eBooks take: There are a vast array of different formats, but for our module, we'll be using the widely used ePub3 (which was launched in 2011). ePub3 USPs are said to be due to its reflowable nature and its compatible with lots of different media screens. However, it is uncommon for recipe books, educational books and children's books to favour a reflowable format which novels readers prefer. So, we'll instead be using the fixed format which basically anchors text and images to a certain page number, not allowing for floating. ePub3 fixed offers instead enhancements like videos, animations, audio to be included making the reading experience a little more exciting and interactive.
 
-If you want to read up a bit more on eBooks, I recommend this[ link](<https://learn.g2.com/what-is-an-ebook#:~:text=epub),to%20read%20on%20small%20devices.>):
+If you want to read up a bit more on eBooks, I recommend this[ link](<https://learn.g2.com/what-is-an-ebook#:~:text=epub),to%20read%20on%20small%20devices.>)
 
 ### 'What I've done so far' segment
 
