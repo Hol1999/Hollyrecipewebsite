@@ -20,7 +20,7 @@ What books will inspire my internal pages and cover design of my eBook: One of m
 
 Some of my favourite book covers and why I like them: Looking at my book collection a lot of my book covers have a person on the cover either full-body or half, illustrated (in the case of fiction or art books) and photography (in the case of cookbooks). My favourites being *Modern Life* (Jean Jullien) and again *Eat. Nourish. Glow,* as it is in my direct sight of vision and looks, in my humble opinion to be the perfect example of a book cover. It seems I am unconsciously drawn to this type of cover, covers that I dislike in comparison are *The Hungry Student Cookbook,* with 50 Shades of Orange.
 
-
+![An image of 4 book covers mentioned above](../uploads/covers.jpg "An image of four book covers mentioned above")
 
 What makes a good book cover: This is relatively simple, as long as you follow some simple rules, a cover won't look terrible even if your imagination is impaired. Typography has to be legible, the quality of the imagery has to be good enough that you can't see a pixel or a blur. The cover needs to be coherent and have some sense of order to it. To make a *good* cover though it needs to be interesting, for example, it should convey some sort of emotion or story and have some sort of identity - so if a person were to look at my recipe eBook cover they need to know immediately that it is a recipe book and not a fantasy fiction book. Colour, imagery, typography should be aesthetically coherent. This is what I intend to convey through my eBook cover.
 
